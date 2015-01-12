@@ -1,4 +1,4 @@
-require "ocd_theme_ambrosia/engine"
+require "ocd_theme_assan/engine"
 
 module OcdThemeAssan
 end
